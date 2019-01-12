@@ -14,7 +14,7 @@
 Реализация
 -------------------------
 
-![структура](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/resources/Abstract_factory_UML.png)
+![Abstract Factory](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abstract_factory_UML.svg/1920px-Abstract_factory_UML.svg.png)
 
 Плюсы
 -------------------------
