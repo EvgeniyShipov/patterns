@@ -1,0 +1,13 @@
+Поведенческие паттерны
+-------------------------
+ - Цепочка обязанностей (Chain of Responsibility)
+ - Команда (Command)
+ - Интерпритатор (Interpreter)
+ - Итератор (Iterator)
+ - Посредник (Mediator)
+ - Хранитель (Memento)
+ - Наблюдатель (Observel)
+ - Состояние (State)
+ - Стратегия (Strategy)
+ - Шаблонный метод (Template Method)
+ - Посетитель (Visitor)
