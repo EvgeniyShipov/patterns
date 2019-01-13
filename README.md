@@ -5,7 +5,7 @@
 на основе книги "Приемы объектно-ориентированного проектирования. Паттерны проектирования." 
 Гамма Э., Хелм Р., Джонсон Р., Влиссидес Дж.
 
-Порождающие паттерны
+[Порождающие паттерны](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational)
 -------------------------
  - [Абстрактная фабрика (Abstract Factory)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Abstract_Factory)
  - Строитель (Builder)
@@ -13,7 +13,7 @@
  - Прототип (Prototype)
  - Одиночка (Singleton)
  
-Структурные паттерны
+[Структурные паттерны](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural)
 -------------------------
   - Адаптер (Adapter)
   - Мост (Bridge)
@@ -23,7 +23,7 @@
   - Приспособленец (Flyweight)
   - Заместитель (Proxy)
  
-Поведенческие паттерны
+[Поведенческие паттерны](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral)
 -------------------------
  - Цепочка обязанностей (Chain of Responsibility)
  - Команда (Command)
