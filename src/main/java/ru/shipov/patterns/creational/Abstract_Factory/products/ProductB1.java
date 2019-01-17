@@ -1,9 +1,9 @@
 package ru.shipov.patterns.creational.Abstract_Factory.products;
 
-public class ProductA implements AbstractProductA {
+public class ProductB1 implements AbstractProductB {
     private final String name;
 
-    public ProductA(String name) {
+    public ProductB1(String name) {
         this.name = name;
     }
 
