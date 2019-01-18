@@ -7,7 +7,7 @@
 
  - [Абстрактная фабрика (Abstract Factory)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Abstract_Factory)
  - [Строитель (Builder)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Builder)
- - Фабричный метод (Factory Method)
+ - [Фабричный метод (Factory Method)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Factory_Method)
  - Прототип (Prototype)
  - Одиночка (Singleton)
  
