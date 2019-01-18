@@ -9,6 +9,6 @@
  - [Строитель (Builder)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Builder)
  - [Фабричный метод (Factory Method)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Factory_Method)
  - [Прототип (Prototype)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Prototype)
- - Одиночка (Singleton)
+ - [Одиночка (Singleton)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational/Singleton)
  
  [на главную страницу](https://github.com/EvgeniyShipov/patterns)
