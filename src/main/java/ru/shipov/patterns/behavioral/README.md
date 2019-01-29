@@ -8,7 +8,7 @@
 При высокой связанности каждому объекту пришлось бы иметь информацию обо всех остальных.
 Некоторые из шаблонов решают эту проблему.
 
- - Цепочка обязанностей (Chain of Responsibility)
+ - [Цепочка обязанностей (Chain of Responsibility)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Chain_of_Responsibility)
  - Команда (Command)
  - Интерпритатор (Interpreter)
  - Итератор (Iterator)
