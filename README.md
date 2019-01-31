@@ -26,7 +26,7 @@
 [Поведенческие паттерны](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral)
 -------------------------
  - [Цепочка обязанностей (Chain of Responsibility)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Chain_of_Responsibility)
- - Команда (Command)
+ - [Команда (Command)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Command)
  - Интерпритатор (Interpreter)
  - Итератор (Iterator)
  - Посредник (Mediator)
