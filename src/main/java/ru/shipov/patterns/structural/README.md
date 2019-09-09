@@ -6,7 +6,7 @@
 В результате получается класс, обладающий свойствами всех своих родителей. Особенно полезен этот шаблон, 
 когда нужно организовать совместную работу нескольких независимо разработанных библиотек.
 
- - Адаптер (Adapter)
+ - [Адаптер (Adapter)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Adapter)
  - Мост (Bridge)
  - Компоновщик (Composite)
  - Декоратор (Decorator)
