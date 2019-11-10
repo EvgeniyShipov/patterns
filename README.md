@@ -16,7 +16,7 @@
 [Структурные паттерны](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural)
 -------------------------
   - [Адаптер (Adapter)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Adapter)
-  - Мост (Bridge)
+  - [Мост (Bridge)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Bridge)
   - Компоновщик (Composite)
   - Декоратор (Decorator)
   - Фасад (Facade)
