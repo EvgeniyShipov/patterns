@@ -18,7 +18,7 @@
   - [Адаптер (Adapter)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Adapter)
   - [Мост (Bridge)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Bridge)
   - [Компоновщик/Составной объект (Composite)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Composite)
-  - [Декоратор/Обертка (Decorate/Wrapper)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Decorate)
+  - [Декоратор/Обертка (Decorator/Wrapper)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Decorator)
   - Фасад (Facade)
   - Приспособленец (Flyweight)
   - Заместитель (Proxy)
