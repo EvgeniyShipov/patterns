@@ -21,7 +21,7 @@
   - [Декоратор/Обертка (Decorator/Wrapper)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Decorator)
   - [Фасад (Facade)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Facade)
   - Приспособленец (Flyweight)
-  - Заместитель (Proxy)
+  - [Заместитель (Proxy)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Proxy)
  
 [Поведенческие паттерны](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral)
 -------------------------
