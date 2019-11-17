@@ -11,7 +11,7 @@
  - [Компоновщик/Составной объект (Composite)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Composite)
  - [Декоратор/Обертка (Decorator/Wrapper)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Decorator)
  - [Фасад (Facade)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Facade)
- - Приспособленец (Flyweight)
+ - [Приспособленец (Flyweight)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Flyweight)
  - [Заместитель (Proxy)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/structural/Proxy)
  
  [на главную страницу](https://github.com/EvgeniyShipov/patterns)
