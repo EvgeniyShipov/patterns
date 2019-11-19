@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ConcreteMediator mediator = new ConcreteMediator();
+        Mediator mediator = new Mediator();
 
         Colleague colleague1 = new ConcreteColleague1(mediator);
         Colleague colleague2 = new ConcreteColleague2(mediator);
