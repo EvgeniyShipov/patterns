@@ -13,7 +13,7 @@
  - Интерпритатор (Interpreter)
  - [Итератор (Iterator)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Iterator)
  - [Посредник (Mediator)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Mediator)
- - Хранитель (Memento)
+ - [Хранитель/Снимок (Memento)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Memento)
  - Наблюдатель (Observel)
  - Состояние (State)
  - Стратегия (Strategy)
