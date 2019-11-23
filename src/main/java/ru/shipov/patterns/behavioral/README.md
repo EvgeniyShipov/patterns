@@ -14,7 +14,7 @@
  - [Итератор (Iterator)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Iterator)
  - [Посредник (Mediator)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Mediator)
  - [Хранитель/Снимок (Memento)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Memento)
- - Наблюдатель (Observer)
+ - [Наблюдатель (Observer)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Observer)
  - Состояние (State)
  - Стратегия (Strategy)
  - Шаблонный метод (Template Method)
