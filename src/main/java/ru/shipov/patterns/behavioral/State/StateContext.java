@@ -1,10 +1,8 @@
 package ru.shipov.patterns.behavioral.State;
 
-import static ru.shipov.patterns.behavioral.State.State.SOLID;
-
 public class StateContext {
 
-    private State state = SOLID;
+    private State state = new SolidState();
 
     public void freeze() {
         System.out.println("Freezing " + state.getName() + " substance...");
