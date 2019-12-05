@@ -16,7 +16,7 @@
  - [Хранитель/Снимок (Memento)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Memento)
  - [Наблюдатель (Observer)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Observer)
  - [Состояние (State)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/State)
- - Стратегия (Strategy)
+ - [Стратегия (Strategy)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Strategy)
  - Шаблонный метод (Template Method)
  - Посетитель (Visitor)
  
