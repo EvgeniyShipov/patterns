@@ -18,6 +18,6 @@
  - [Состояние (State)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/State)
  - [Стратегия (Strategy)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Strategy)
  - [Шаблонный метод (Template Method)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Template_Method)
- - Посетитель (Visitor)
+ - [Посетитель (Visitor)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Visitor)
  
  [на главную страницу](https://github.com/EvgeniyShipov/patterns)
