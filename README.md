@@ -1,9 +1,7 @@
 Паттерны проектирования
 ==============
 
-Проект представляет из себя сборник паттернов проектирования, 
-на основе книги "Приемы объектно-ориентированного проектирования. Паттерны проектирования." 
-Гамма Э., Хелм Р., Джонсон Р., Влиссидес Дж.
+Проект представляет из себя сборник паттернов проектирования, с примерами и описанием.
 
 [Порождающие паттерны](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/creational)
 -------------------------
@@ -36,6 +34,17 @@
  - [Стратегия (Strategy)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Strategy)
  - [Шаблонный метод (Template Method)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Template_Method)
  - [Посетитель (Visitor)](https://github.com/EvgeniyShipov/patterns/tree/master/src/main/java/ru/shipov/patterns/behavioral/Visitor)
+ 
+Источники
+-------------------------
+ 
+ 1. "Приемы объектно-ориентированного проектирования. Паттерны проектирования." Гамма Э., Хелм Р., Джонсон Р., Влиссидес Дж.
+ 2. "Spring. Все паттерны проектирования" Раджпут Д.
+ 3. Википедия - https://ru.wikipedia.org/
+ 4. Сайт Refactoring.Guru - https://refactoring.guru/
+ 5. Сайт Baeldung - https://www.baeldung.com/
+ 
+ и др.
  
 Автор проекта
 -------------------------
